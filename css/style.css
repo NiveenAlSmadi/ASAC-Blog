@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: rgba(96, 96, 96,0.6);
+    width: 100%;
+    height: 50%;
+}
+a{
+    color:white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.new{
+    display: inline-block;
+    margin-right: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+form{
+    padding-top: 100px;
+    width: 30%;
+    height:700%;
+}
+label{
+    font-family: 'Roboto', sans-serif ;
+    font-size: medium;
+    font-weight: bold;
+
+}
+fieldset{
+padding: 0 25px;
+    background-color:rgba(96, 96, 96,0.6) ;
+    width: 100%;
+    height:700%;
+}
+#Author , #Titel , #subject{
+
+    width: 50%;
+    height: 30%;
+}
+#content{
+    width: 60%;
+    height:800%;
+}
+#day {
+    width: 5%;
+    height:5%;  
+}
+#month {
+    width: 5%;
+    height:5%;  
+}
+#year{
+    width: 5%;
+    height:5%;  
+}
+#sumbit{
+    width: 60%;
+    height:5%; 
+    text-align: center;
+}
